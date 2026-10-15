@@ -1,0 +1,5 @@
+seed/seed.sql
+app/config/app.ini
+.env
+.env.*
+!.env.example
